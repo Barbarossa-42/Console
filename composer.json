@@ -18,8 +18,6 @@
 	},
 	"require": {
 		"php": "^5.6 || ^7.0",
-		"nette/di": "^2.4.8@dev || ~3.0@beta",
-		"tracy/tracy": "^2.4@dev || ~3.0@dev",
 		"kdyby/strict-objects": "^1.0",
 		"symfony/console": "~2.3 || ^3.0 || ^4.0"
 	},
